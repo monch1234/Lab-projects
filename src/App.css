@@ -1,0 +1,16 @@
+.input{
+    margin-bottom: 50px;
+}
+
+.cropImg{
+    width: 500px;
+}
+
+.download{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: red;
+    color: #fff;
+    /* margin: 50px; */
+    text-decoration: none;
+}
